@@ -114,7 +114,7 @@ export default function Home() {
                 href="https://github.com/diimprasetyos/villa-book-nextjs"
                 className="inline-flex items-center text-sm underline text-blue-600 hover:text-blue-400"
               >
-                <span>Source Code</span>
+                <span>View Project</span>
                 <ExternalLink size={16} />
               </Link>
             </h3>
@@ -145,7 +145,7 @@ export default function Home() {
                 href="https://github.com/diimprasetyos/analisis-sentimen"
                 className="inline-flex items-center text-sm underline text-blue-600 hover:text-blue-400"
               >
-                <span>Source Code</span>
+                <span>View Project</span>
                 <ExternalLink size={16} />
               </Link>
             </h3>
@@ -182,7 +182,7 @@ export default function Home() {
                 href="https://github.com/Buddy-Mental-Health-Apps"
                 className="inline-flex items-center text-sm underline text-blue-600 hover:text-blue-400"
               >
-                <span>Source Code</span>
+                <span>View Project</span>
                 <ExternalLink size={16} />
               </Link>
             </h3>
@@ -219,7 +219,7 @@ export default function Home() {
                 href="https://github.com/diimprasetyos/spk-pemberian-kredit"
                 className="inline-flex items-center text-sm underline text-blue-600 hover:text-blue-400"
               >
-                <span>Source Code</span>
+                <span>View Project</span>
                 <ExternalLink size={16} />
               </Link>
             </h3>
